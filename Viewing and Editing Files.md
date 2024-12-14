@@ -62,7 +62,10 @@ Count words, lines, and characters in a file.
 
 Example: wc file.txt.
 
+
 diff
+
 Compare the contents of two files.
+
 Example: diff file1.txt file2.txt.
 
