@@ -1,7 +1,6 @@
 2. Viewing and Editing Files
    
 cat
-
 View file contents.
 
 Example: cat file.txt.
