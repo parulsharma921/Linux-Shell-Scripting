@@ -1,10 +1,9 @@
 1. File and Directory Management
 
 ls
-
 List files and directories.
-
 Example: ls -l (detailed view).
+
 
 cd
 Change directory.
